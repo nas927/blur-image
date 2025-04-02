@@ -1,0 +1,6 @@
+*.mp4
+**/extractions
+__pycache__/
+*.pyc
+**/test*
+test**
